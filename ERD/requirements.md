@@ -124,9 +124,12 @@ ENTITY RELATIONSHIP SCHEMA
 
 * **Primary Keys (PK)**: `id` for all entities
 * **Indexed Fields**: `email`, `property_id`, `booking_id`
+* 
+
 
 ---
 # Entity-Relationship-Diagram
 
+![ERD (2)](https://github.com/user-attachments/assets/a504c48d-035e-4083-b011-35254c8b3d85)
 
-![ERD](https://github.com/user-attachments/assets/ebffa142-3ac7-4afc-849f-d06781d6bf73)
+
